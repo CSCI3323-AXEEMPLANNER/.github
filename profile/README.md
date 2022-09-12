@@ -1,4 +1,4 @@
-# AXE 'EM Planner
+# AXE 'EM Planner Group Page
 by Emily Morgan, Jorge Hernandez, Edwin Morin, Eric Concha, and Cristian Turbeville
 ---
 
